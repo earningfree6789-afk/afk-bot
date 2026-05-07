@@ -1,0 +1,13 @@
+{
+  "name": "funark-bot",
+  "version": "1.0.0",
+  "description": "24/7 Minecraft Bot for funark.aternos.me:57003 - PaperMC 1.21.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "express": "^4.18.2"
+  }
+}
